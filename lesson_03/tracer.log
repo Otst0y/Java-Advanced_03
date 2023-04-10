@@ -1,0 +1,5 @@
+2023-04-10 16:33:37 DEBUG Application:34 - DEBUG message
+2023-04-10 16:33:37 INFO  Application:35 - INFO message
+2023-04-10 16:33:37 WARN  Application:36 - WARN message
+2023-04-10 16:33:37 ERROR Application:37 - ERROR message
+2023-04-10 16:33:37 FATAL Application:38 - FATAL message
